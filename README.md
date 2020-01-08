@@ -7,7 +7,6 @@ Windows:
 			3.Run From E-Nygma.cpp
 			4.Use VS Community 2018 Or Higher
 		
-		   Mac:
-			1.Please Use XCODE
+ Mac:			1.Please Use XCODE
 			2.E-Nygma.cpp ,add this File Under Same Project
 			3.Run From E-Nygma.cpp
